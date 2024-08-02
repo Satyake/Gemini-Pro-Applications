@@ -8,3 +8,4 @@ gemini_text.py - use case of gemini 1.5 model  (basic use)
 
 ATSnonvision.py - use case of creating an applicant tracking system for HR 
 
+geminicalorieadvisor.py - use case of creating a calorie advisor using Gemini Pro vision model from food images.
