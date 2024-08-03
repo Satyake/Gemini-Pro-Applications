@@ -11,3 +11,5 @@ Repository containing various applications built on top of Google's Gemini Pro L
 **geminicalorieadvisor.py** - use case of creating a calorie advisor using Gemini Pro vision model from food images.
 
 **llmats.py**- use case of creating an applicant tracking system for HR but, the pdf file is read as an image.
+
+**multilanguageinvoiceextractor** - use case creating a multi-language invoice extractor 
