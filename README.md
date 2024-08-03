@@ -17,3 +17,5 @@ Repository containing various applications built on top of Google's Gemini Pro L
 **multichatdocument.py** - use case of creating a "chat with document" application
 
 **QAChatbot.py**  - use case of creating a basic question answering application
+
+**youtubetranscriber folder**  - use case of using CrewAI agents for creating a youtube video transcriber for creating blogs.
