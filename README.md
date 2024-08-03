@@ -19,3 +19,5 @@ Repository containing various applications built on top of Google's Gemini Pro L
 **QAChatbot.py**  - use case of creating a basic question answering application
 
 **youtubetranscriber folder**  - use case of using CrewAI agents for creating a youtube video transcriber for creating blogs.
+
+**Gemma_FineTuning.ipynb** - Finetuning Google's Gemma model with PEFT 
