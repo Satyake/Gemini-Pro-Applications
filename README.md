@@ -12,4 +12,6 @@ Repository containing various applications built on top of Google's Gemini Pro L
 
 **llmats.py**- use case of creating an applicant tracking system for HR but, the pdf file is read as an image.
 
-**multilanguageinvoiceextractor** - use case creating a multi-language invoice extractor 
+**multilanguageinvoiceextractor.py** - use case creating a multi-language invoice extractor 
+
+**multichatdocument.py** - use case of creating a "chat with document" application
