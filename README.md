@@ -15,3 +15,5 @@ Repository containing various applications built on top of Google's Gemini Pro L
 **multilanguageinvoiceextractor.py** - use case creating a multi-language invoice extractor 
 
 **multichatdocument.py** - use case of creating a "chat with document" application
+
+**QAChatbot.py**  - use case of creating a basic question answering application
